@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Tom's Revision</title>
+  <meta name="theme-color" content="#14213d">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Revision">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <strong>Tom's Revision</strong>
+      <span id="countdown"></span>
+    </div>
+    <span id="syncBadge" class="badge"></span>
+  </header>
+  <main id="view" aria-live="polite"></main>
+  <nav class="tabs" role="tablist">
+    <button data-tab="today" class="on">📅<span>Today</span></button>
+    <button data-tab="plan">🗓️<span>Plan</span></button>
+    <button data-tab="topics">🚦<span>Topics</span></button>
+    <button data-tab="progress">📊<span>Progress</span></button>
+    <button data-tab="more">⚙️<span>More</span></button>
+  </nav>
+  <div id="sheet" class="sheet hidden" role="dialog" aria-modal="true"></div>
+  <noscript>This app needs JavaScript.</noscript>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

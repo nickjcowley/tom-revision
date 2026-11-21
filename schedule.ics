@@ -1,0 +1,2310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tom revision//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tom's revision
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:2026-11-22-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261122T110000Z
+DTEND:20261122T120000Z
+SUMMARY:📚 Maths – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Fractions\, decimals & recurring
+  decimals\n• Indices & standard form\n• Surds\n• Percentages\, ratio & co
+ mpound interest\n• Upper & lower bounds\n• Direct & inverse proportion\n•
+  Expanding\, factorising & algebraic fractions\n• Linear equations & rear
+ ranging formulae\n• Quadratics – factorising\, formula\, completing the s
+ quare\n• Simultaneous equations (incl. linear/quadratic)\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261122T121500Z
+DTEND:20261122T131500Z
+SUMMARY:📚 Physics – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Energy stores & calculations (KE
+ \, GPE\, elastic)\n• Power\, efficiency & specific heat capacity\n• Energ
+ y resources\n• Circuits – charge\, current\, potential difference\, resis
+ tance\n• I–V characteristics\, series & parallel circuits\n• Mains electr
+ icity\, power & the National Grid\n• Static electricity & electric fields
+ \n• Density & changes of state\n• Internal energy & specific latent heat\
+ n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261122T191500Z
+DTEND:20261122T201500Z
+SUMMARY:📚 Chemistry – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• States of matter & diffusion\n• 
+ Elements\, compounds\, mixtures & separation (chromatography)\n• Atomic s
+ tructure\, isotopes & relative atomic mass\n• The Periodic Table\n• Formu
+ lae\, equations & state symbols\n• Moles\, reacting masses & percentage y
+ ield\n• Moles – gas volumes\, concentrations & titration calculations\n• 
+ Ionic bonding\n• Covalent bonding & structures\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261123T193000Z
+DTEND:20261123T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261123T202000Z
+DTEND:20261123T212000Z
+SUMMARY:📚 Biology – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Cell structure\, microscopy & cu
+ lturing microorganisms\n• Cell division\, mitosis & stem cells\n• Diffusi
+ on\, osmosis & active transport\n• Digestive system\, enzymes & food test
+ s\n• Heart\, blood & blood vessels\n• Lungs\, non-communicable disease & 
+ cancer\n• Plant tissues\, transpiration & translocation\n• Communicable d
+ iseases (viral\, bacterial\, fungal\, protist\, plant)\n• Defences\, vacc
+ ination\, antibiotics & drug development\n• Monoclonal antibodies\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261123T212500Z
+DTEND:20261123T220000Z
+SUMMARY:📚 Geography – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Rivers – hydrological cycle & dr
+ ainage basins\n• Rivers – processes & landforms\n• Rivers – flooding\, hy
+ drographs & management\n• Rivers – water supply\, quality & management\n•
+  Hazards – types & global distribution\n• Hazards – earthquakes & volcano
+ es\n• Hazards – tropical cyclones\n• Hazards – impacts\, responses & case
+  studies\n• Fieldwork – my rivers enquiry\n• Economic activity – sectors 
+ & changing employment\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261124T193000Z
+DTEND:20261124T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261124T202000Z
+DTEND:20261124T212000Z
+SUMMARY:📚 Spanish – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• People & lifestyle – identity & 
+ relationships\n• People & lifestyle – healthy living\n• People & lifestyl
+ e – education & work\n• Popular culture – free time\n• Popular culture – 
+ customs\, festivals & celebrations\n• Popular culture – celebrity culture
+ \n• World around us – travel & tourism\n• World around us – media & techn
+ ology\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261124T212500Z
+DTEND:20261124T220000Z
+SUMMARY:📚 Eng Lang – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Anthology: The Danger of a Singl
+ e Story · A Passage to Africa\n• Anthology: The Explorer’s Daughter · Exp
+ lorers\, or boys messing about?\n• Anthology: Between a Rock and a Hard P
+ lace · Young and dyslexic?\n• Anthology: A Game of Polo with a Headless G
+ oat · Beyond the Sky and the Earth\n• Anthology: H is for Hawk · Chinese 
+ Cinderella\n• Unseen non-fiction – retrieval & short answers\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261126T183000Z
+DTEND:20261126T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261126T192000Z
+DTEND:20261126T202000Z
+SUMMARY:📚 Eng Lit – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Unseen poetry – how to analyse l
+ anguage\, form & structure\n• Anthology: If– · Prayer Before Birth · Bles
+ sing\n• Anthology: Search For My Tongue · Half-past Two · Piano\n• Anthol
+ ogy: Hide and Seek · Sonnet 116 · La Belle Dame sans Merci\n• Anthology: 
+ Poem at Thirty-Nine · War Photographer · The Tyger\n• Anthology: My Last 
+ Duchess · Half-caste · Do not go gentle · Remember\n• Comparing two antho
+ logy poems (30-mark essay plan)\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261126T202500Z
+DTEND:20261126T211000Z
+SUMMARY:📚 PE – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Skeletal system\n• Muscular syst
+ em\n• Movement analysis – levers\, planes & axes\n• Cardiovascular & resp
+ iratory systems\n• Effects of exercise (short & long term)\n• Components 
+ of fitness & fitness tests\n• Principles & methods of training\n• Optimis
+ ing training & preventing injury\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261127T183000Z
+DTEND:20261127T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261128T110000Z
+DTEND:20261128T114500Z
+SUMMARY:📚 Maths – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Inequalities (incl. quadratic & 
+ graphical)\n• Sequences & series\n• Functions – composite & inverse\n• St
+ raight-line graphs & gradients\n• Curves & graph transformations\n• Diffe
+ rentiation – gradients\, turning points\, kinematics\n• Algebraic proof &
+  identities\n• Angles\, polygons & bearings\n• Pythagoras & right-angled 
+ trigonometry\n• Sine rule\, cosine rule & ½ab sin C\n• 3D Pythagoras & tr
+ igonometry\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261128T154500Z
+DTEND:20261128T164500Z
+SUMMARY:📚 Physics – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Gas pressure & particle motion\n
+ • Atomic structure & models of the atom\n• Radioactive decay\, nuclear eq
+ uations & half-life\n• Uses & hazards of radiation\, fission & fusion\n• 
+ Required practicals – Paper 1\n• 4.5.1 Forces & their interactions (scala
+ rs\, vectors\, weight\, resultants)\n• 4.5.2–4.5.3 Work done & elasticity
+  (F = ke)\n• 4.5.4 Moments\, levers & gears\n• 4.5.5 Pressure in fluids &
+  upthrust\n• 4.5.6 Speed\, velocity & motion graphs\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261128T170000Z
+DTEND:20261128T180000Z
+SUMMARY:📚 Chemistry – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Metallic bonding\n• Electrolysis
+ \n• Group 1 & Group 7\n• Gases in the atmosphere (O₂\, CO₂)\n• Reactivity
+  series\, displacement & rusting\n• Extraction & uses of metals\n• Acids\
+ , alkalis & titrations\n• Preparing salts\n• Chemical tests (ions & gases
+ )\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261129T110000Z
+DTEND:20261129T120000Z
+SUMMARY:📚 Geography – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Economic activity – formal/infor
+ mal work & location\n• Energy – demand\, sources & sustainability\n• Urba
+ n – urbanisation & growth\n• Urban – land use & urban issues\n• Urban – m
+ anaging urban challenges & case studies\n• Fieldwork – my urban enquiry\n
+ • Fragile environments – desertification & deforestation\n• Climate chang
+ e – causes & impacts\n• Climate change – responses\n• Geographical skills
+  – maps\, graphs & statistics\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261129T140000Z
+DTEND:20261129T150000Z
+SUMMARY:📚 Biology – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Photosynthesis & limiting factor
+ s\n• Respiration\, exercise & metabolism\n• Required practicals – Paper 1
+ \n• Nervous system & reflexes\n• The brain & the eye\n• Thermoregulation\
+ n• Hormones\, blood glucose & diabetes\n• Kidneys\, water balance & ADH\n
+ • Reproductive hormones\, contraception & IVF\n• Plant hormones\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261129T151500Z
+DTEND:20261129T160000Z
+SUMMARY:📚 Food – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Macronutrients – protein\, fat\,
+  carbohydrate\n• Micronutrients – vitamins\, minerals & water\n• Nutritio
+ nal needs through life & diet-related health\n• Energy requirements & pla
+ nning balanced diets\n• Cooking methods & heat transfer\n• Functional pro
+ perties – proteins & carbohydrates\n• Functional properties – fats\, oils
+  & raising agents\n• Food spoilage & micro-organisms\n• Food safety – buy
+ ing\, storing\, preparing\, cooking\n• Food choice\, labelling & marketin
+ g\n• British & international cuisines\; sensory evaluation\n• Environment
+ al impact & sustainability\n• Food processing & production\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261130T193000Z
+DTEND:20261130T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261130T202000Z
+DTEND:20261130T212000Z
+SUMMARY:📚 Eng Lang – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Language & structure analysis (a
+ nthology question)\n• Comparing two texts (unseen v anthology)\n• Transac
+ tional writing – articles & speeches\n• Transactional writing – letters\,
+  reviews & reports\n• Persuasive & rhetorical techniques\n• Spelling\, pu
+ nctuation & sentence variety\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261130T212500Z
+DTEND:20261130T220000Z
+SUMMARY:📚 Spanish – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• World around us – environment & 
+ where people live\n• Grammar – present & preterite\n• Grammar – imperfect
+ \, future & conditional\n• Grammar – perfect\, pluperfect & subjunctive\n
+ • Translation – Spanish to English\n• Translation – English to Spanish\n•
+  Writing – 90-word & 150-word tasks\n• Listening technique & dictation\n•
+  Reading technique\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261201T193000Z
+DTEND:20261201T201500Z
+SUMMARY:📚 Spanish – speaking prep for oral
+DESCRIPTION:Practise the role play\, reading aloud and photo card\; rehear
+ se your conversation answers out loud.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261201T202000Z
+DTEND:20261201T210500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261201T211000Z
+DTEND:20261201T220000Z
+SUMMARY:📚 Maths – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Circle theorems\n• Similarity (l
+ ength\, area\, volume) & congruence\n• Area\, arcs & sectors\n• Surface a
+ rea & volume (cones\, spheres\, frusta)\n• Transformations\n• Vectors\n• 
+ Constructions & loci\n• Sets & Venn diagrams\n• Averages\, grouped data &
+  cumulative frequency\n• Histograms\n• Probability – tree diagrams & cond
+ itional\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261202T183000Z
+DTEND:20261202T191500Z
+SUMMARY:📚 Spanish – speaking prep for oral
+DESCRIPTION:Practise the role play\, reading aloud and photo card\; rehear
+ se your conversation answers out loud.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261202T212500Z
+DTEND:20261202T220000Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261203T183000Z
+DTEND:20261203T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261203T192000Z
+DTEND:20261203T202000Z
+SUMMARY:📚 Physics – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• 4.5.6 Newton’s laws\, terminal v
+ elocity & stopping distances\n• 4.5.7 Momentum\n• 4.6.1 Waves – propertie
+ s\, sound\, ultrasound & seismic\n• 4.6.2 EM waves\, lenses\, colour & bl
+ ack-body radiation\n• 4.7.1 Permanent magnets & electromagnetism\n• 4.7.2
+  Motor effect\, motors & loudspeakers\n• 4.7.3 Induced potential\, genera
+ tors & transformers\n• 4.8.1 Solar system\, life cycle of stars & orbits\
+ n• 4.8.2 Red-shift & the Big Bang\n• Required practicals – Paper 2\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261203T202500Z
+DTEND:20261203T211000Z
+SUMMARY:📚 PE – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Engagement patterns in sport\n• 
+ Commercialisation & the media\n• Ethics\, sportsmanship\, deviance & drug
+ s\n• Skill classification & goal setting\n• Mental preparation\, guidance
+  & feedback\n• Health\, fitness & wellbeing\n• Diet & nutrition\n• Using 
+ & interpreting data\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261204T183000Z
+DTEND:20261204T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261205T150000Z
+DTEND:20261205T160000Z
+SUMMARY:📚 Eng Lit – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Of Mice and Men – plot\, structu
+ re & foreshadowing\n• Of Mice and Men – George & Lennie\n• Of Mice and Me
+ n – Curley\, Curley’s wife\, Crooks\, Candy\, Slim\n• Of Mice and Men – t
+ hemes: dreams\, loneliness\, friendship\n• Of Mice and Men – themes: powe
+ r\, prejudice\, violence\n• Of Mice and Men – context: Depression & migra
+ nt workers\n• Of Mice and Men – key quotations\n• Of Mice and Men – 40-ma
+ rk essay technique\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261205T161500Z
+DTEND:20261205T171500Z
+SUMMARY:📚 Chemistry – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Energetics – ΔH\, calorimetry & 
+ bond energies\n• Rates of reaction\n• Reversible reactions & equilibria\n
+ • Crude oil\, fractional distillation & cracking\n• Alkanes & alkenes\n• 
+ Alcohols\n• Carboxylic acids & esters\n• Synthetic polymers (addition & c
+ ondensation)\n• Required practicals\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261205T173000Z
+DTEND:20261205T183000Z
+SUMMARY:📚 Biology – make notes
+DESCRIPTION:Condense your class notes into revision notes / mind maps / fl
+ ashcards for these topics.\n\nTopics:\n• Reproduction & meiosis\n• DNA\, 
+ genome & protein synthesis\n• Inheritance\, Punnett squares & genetic dis
+ orders\n• Variation\, evolution & speciation\n• Selective breeding\, gene
+ tic engineering & cloning\n• Classification\, fossils & antibiotic resist
+ ance\n• Ecosystems\, adaptations & competition\n• Material cycles & decom
+ position\n• Biodiversity\, human impact & food security\n• Required pract
+ icals – Paper 2\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261206T110000Z
+DTEND:20261206T120000Z
+SUMMARY:📚 Maths – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261206T121500Z
+DTEND:20261206T130000Z
+SUMMARY:📚 Geography – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261206T150000Z
+DTEND:20261206T160000Z
+SUMMARY:📚 Spanish – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261207T193000Z
+DTEND:20261207T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261207T202000Z
+DTEND:20261207T212000Z
+SUMMARY:📚 Eng Lang – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261207T212500Z
+DTEND:20261207T220000Z
+SUMMARY:📚 Food – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261208T193000Z
+DTEND:20261208T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261208T202000Z
+DTEND:20261208T212000Z
+SUMMARY:📚 Physics – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261208T212500Z
+DTEND:20261208T220000Z
+SUMMARY:📚 PE – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261209T183000Z
+DTEND:20261209T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261210T183000Z
+DTEND:20261210T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261210T192000Z
+DTEND:20261210T202000Z
+SUMMARY:📚 Chemistry – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261210T202500Z
+DTEND:20261210T211000Z
+SUMMARY:📚 Biology – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261211T183000Z
+DTEND:20261211T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261212T110000Z
+DTEND:20261212T120000Z
+SUMMARY:📚 Maths – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261212T121500Z
+DTEND:20261212T131500Z
+SUMMARY:📚 Geography – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261212T140000Z
+DTEND:20261212T150000Z
+SUMMARY:📚 Eng Lit – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261213T110000Z
+DTEND:20261213T120000Z
+SUMMARY:📚 Spanish – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261213T121500Z
+DTEND:20261213T131500Z
+SUMMARY:📚 Eng Lang – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261213T140000Z
+DTEND:20261213T150000Z
+SUMMARY:📚 Physics – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261214T193000Z
+DTEND:20261214T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261214T202000Z
+DTEND:20261214T212000Z
+SUMMARY:📚 Biology – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261214T212500Z
+DTEND:20261214T220000Z
+SUMMARY:📚 Food – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261215T193000Z
+DTEND:20261215T201500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261215T202000Z
+DTEND:20261215T212000Z
+SUMMARY:📚 Maths – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261215T212500Z
+DTEND:20261215T220000Z
+SUMMARY:📚 PE – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261216T183000Z
+DTEND:20261216T191500Z
+SUMMARY:📝 Homework
+DESCRIPTION:School homework.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261216T200000Z
+DTEND:20261216T210000Z
+SUMMARY:📚 Chemistry – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261216T210500Z
+DTEND:20261216T215000Z
+SUMMARY:📚 Geography – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261217T100000Z
+DTEND:20261217T110000Z
+SUMMARY:📚 Physics – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261217T111500Z
+DTEND:20261217T121500Z
+SUMMARY:📚 Spanish – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261217T123000Z
+DTEND:20261217T131500Z
+SUMMARY:📚 Eng Lit – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261217T140000Z
+DTEND:20261217T150000Z
+SUMMARY:📚 Biology – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261217T151500Z
+DTEND:20261217T161500Z
+SUMMARY:📚 Maths – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-6@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261217T200000Z
+DTEND:20261217T210000Z
+SUMMARY:📚 Chemistry – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261218T100000Z
+DTEND:20261218T110000Z
+SUMMARY:📚 Eng Lang – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261218T111500Z
+DTEND:20261218T121500Z
+SUMMARY:📚 PE – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261218T123000Z
+DTEND:20261218T131500Z
+SUMMARY:📚 Food – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261218T140000Z
+DTEND:20261218T150000Z
+SUMMARY:📚 Geography – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261218T151500Z
+DTEND:20261218T161500Z
+SUMMARY:📚 Physics – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-6@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261218T163000Z
+DTEND:20261218T173000Z
+SUMMARY:📚 Maths – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261219T110000Z
+DTEND:20261219T120000Z
+SUMMARY:📚 Biology – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261219T121500Z
+DTEND:20261219T131500Z
+SUMMARY:📚 Chemistry – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261219T140000Z
+DTEND:20261219T150000Z
+SUMMARY:📚 Eng Lit – memorise & recall
+DESCRIPTION:Close the notes and test yourself: flashcards\, blurting\, sel
+ f-quizzing. Re-rate each topic afterwards.\n\nTopics: see the app (picked
+  from your red/amber ratings).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261220T110000Z
+DTEND:20261220T124500Z
+SUMMARY:📚 Biology Paper 2 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261220T140000Z
+DTEND:20261220T144500Z
+SUMMARY:📚 Biology Paper 2 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261221T100000Z
+DTEND:20261221T120000Z
+SUMMARY:📚 Maths Paper 2 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261221T153000Z
+DTEND:20261221T161500Z
+SUMMARY:📚 Maths Paper 2 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261221T163000Z
+DTEND:20261221T181500Z
+SUMMARY:📚 Geography Paper 2 – Human – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261221T191500Z
+DTEND:20261221T200000Z
+SUMMARY:📚 Geography Paper 2 – Human – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261221T201500Z
+DTEND:20261221T210000Z
+SUMMARY:📚 Chemistry – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261222T100000Z
+DTEND:20261222T114500Z
+SUMMARY:📚 Physics Paper 2 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261222T120000Z
+DTEND:20261222T124500Z
+SUMMARY:📚 Physics Paper 2 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261222T140000Z
+DTEND:20261222T151500Z
+SUMMARY:📚 Chemistry Paper 2 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261222T190000Z
+DTEND:20261222T194500Z
+SUMMARY:📚 Chemistry Paper 2 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261222T200000Z
+DTEND:20261222T210000Z
+SUMMARY:📚 Maths – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261223T100000Z
+DTEND:20261223T114500Z
+SUMMARY:📚 Spanish Listening & Reading – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261223T153000Z
+DTEND:20261223T161500Z
+SUMMARY:📚 Spanish Listening & Reading – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261223T163000Z
+DTEND:20261223T173000Z
+SUMMARY:📚 PE Paper 2 – Socio-cultural & psychology – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261223T174500Z
+DTEND:20261223T183000Z
+SUMMARY:📚 PE Paper 2 – Socio-cultural & psychology – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261223T191500Z
+DTEND:20261223T203000Z
+SUMMARY:📚 Spanish Writing – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261224T100000Z
+DTEND:20261224T104500Z
+SUMMARY:📚 Spanish Writing – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261224T110000Z
+DTEND:20261224T124500Z
+SUMMARY:📚 Food Prep & Nutrition – Written – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261224T140000Z
+DTEND:20261224T144500Z
+SUMMARY:📚 Food Prep & Nutrition – Written – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261224T150000Z
+DTEND:20261224T160000Z
+SUMMARY:📚 Physics – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261224T161500Z
+DTEND:20261224T170000Z
+SUMMARY:📚 Biology – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261227T110000Z
+DTEND:20261227T130000Z
+SUMMARY:📚 Chemistry Paper 1 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261227T140000Z
+DTEND:20261227T144500Z
+SUMMARY:📚 Chemistry Paper 1 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261228T140000Z
+DTEND:20261228T160000Z
+SUMMARY:📚 Maths Paper 1 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261228T161500Z
+DTEND:20261228T170000Z
+SUMMARY:📚 Maths Paper 1 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261229T100000Z
+DTEND:20261229T114500Z
+SUMMARY:📚 Physics Paper 1 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261229T120000Z
+DTEND:20261229T124500Z
+SUMMARY:📚 Physics Paper 1 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261229T163000Z
+DTEND:20261229T173000Z
+SUMMARY:📚 PE Paper 1 – Physical factors – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261229T174500Z
+DTEND:20261229T183000Z
+SUMMARY:📚 PE Paper 1 – Physical factors – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261229T191500Z
+DTEND:20261229T201500Z
+SUMMARY:📚 Geography – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261230T100000Z
+DTEND:20261230T121500Z
+SUMMARY:📚 English Language – Non-fiction & Transactional Writing – practi
+ ce paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261230T123000Z
+DTEND:20261230T131500Z
+SUMMARY:📚 English Language – Non-fiction & Transactional Writing – mark &
+  correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261230T140000Z
+DTEND:20261230T151000Z
+SUMMARY:📚 Geography Paper 1 – Physical – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261230T152500Z
+DTEND:20261230T161000Z
+SUMMARY:📚 Geography Paper 1 – Physical – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261230T162500Z
+DTEND:20261230T172500Z
+SUMMARY:📚 Spanish – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261231T100000Z
+DTEND:20261231T114500Z
+SUMMARY:📚 Biology Paper 1 – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261231T120000Z
+DTEND:20261231T124500Z
+SUMMARY:📚 Biology Paper 1 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261231T140000Z
+DTEND:20261231T150000Z
+SUMMARY:📚 Eng Lang – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20261231T151500Z
+DTEND:20261231T161500Z
+SUMMARY:📚 Eng Lit – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270102T110000Z
+DTEND:20270102T130000Z
+SUMMARY:📚 English Literature – Poetry & Modern Prose – practice paper
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270102T140000Z
+DTEND:20270102T144500Z
+SUMMARY:📚 English Literature – Poetry & Modern Prose – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270103T110000Z
+DTEND:20270103T130000Z
+SUMMARY:📚 English Literature – Poetry & Modern Prose – practice paper (2n
+ d)
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270103T140000Z
+DTEND:20270103T144500Z
+SUMMARY:📚 English Literature – Poetry & Modern Prose – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270104T100000Z
+DTEND:20270104T114500Z
+SUMMARY:📚 Biology Paper 1 – practice paper (2nd)
+DESCRIPTION:Timed\, exam conditions\, no notes. Get the mark scheme ready 
+ for afterwards.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270104T153000Z
+DTEND:20270104T161500Z
+SUMMARY:📚 Biology Paper 1 – mark & correct
+DESCRIPTION:Mark with the mark scheme. Correct every mistake in a differen
+ t colour and set the topics you dropped marks on to red.\n\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-3@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270104T163000Z
+DTEND:20270104T173000Z
+SUMMARY:📚 PE – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270104T174500Z
+DTEND:20270104T183000Z
+SUMMARY:📚 Chemistry – fix weak topics
+DESCRIPTION:Go back over your red/amber topics: re-learn\, then do exam qu
+ estions on them.\n\nTopics: see the app (picked from your red/amber ratin
+ gs).\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-5@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270104T184500Z
+DTEND:20270104T193000Z
+SUMMARY:📚 Review for tomorrow: English Literature – Poetry & Modern Prose
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-6@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270104T194000Z
+DTEND:20270104T202500Z
+SUMMARY:📚 Review for tomorrow: Biology Paper 1
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270105T193000Z
+DTEND:20270105T195000Z
+SUMMARY:📚 Review for tomorrow: Geography Paper 1 – Physical
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270105T195500Z
+DTEND:20270105T201500Z
+SUMMARY:📚 Review for tomorrow: English Language – Non-fiction & Transacti
+ onal Writing
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270106T183000Z
+DTEND:20270106T191500Z
+SUMMARY:📚 Review for tomorrow: PE Paper 1 – Physical factors
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270106T200000Z
+DTEND:20270106T204500Z
+SUMMARY:📚 Review for tomorrow: Physics Paper 1
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270107T183000Z
+DTEND:20270107T191500Z
+SUMMARY:📚 Review for tomorrow: Maths Paper 1
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270107T192000Z
+DTEND:20270107T200500Z
+SUMMARY:📚 Review for tomorrow: Chemistry Paper 1
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270110T170000Z
+DTEND:20270110T174500Z
+SUMMARY:📚 Review for tomorrow: Food Prep & Nutrition – Written
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270111T193000Z
+DTEND:20270111T201500Z
+SUMMARY:📚 Review for tomorrow: Spanish Writing
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270112T193000Z
+DTEND:20270112T201500Z
+SUMMARY:📚 Review for tomorrow: PE Paper 2 – Socio-cultural & psychology
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270112T202000Z
+DTEND:20270112T210500Z
+SUMMARY:📚 Review for tomorrow: Spanish Listening & Reading
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270113T183000Z
+DTEND:20270113T191500Z
+SUMMARY:📚 Review for tomorrow: Chemistry Paper 2
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270114T183000Z
+DTEND:20270114T191500Z
+SUMMARY:📚 Review for tomorrow: Physics Paper 2
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270117T170000Z
+DTEND:20270117T174500Z
+SUMMARY:📚 Review for tomorrow: Geography Paper 2 – Human
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270118T193000Z
+DTEND:20270118T201500Z
+SUMMARY:📚 Review for tomorrow: Maths Paper 2
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270119T193000Z
+DTEND:20270119T200000Z
+SUMMARY:📚 Review for tomorrow: Biology Paper 2
+DESCRIPTION:Light review only: key facts\, equations\, quotes\, formulas. 
+ Early night!\n\nTopics: see the app (picked from your red/amber ratings).
+ \n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Revision starts in 5 minutes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-englit1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270105T090000Z
+DTEND:20270105T110000Z
+SUMMARY:🎓 MOCK: English Literature – Poetry & Modern Prose
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-englang1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270106T133000Z
+DTEND:20270106T154500Z
+SUMMARY:🎓 MOCK: English Language – Non-fiction & Transactional Writing
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-maths1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:🎓 MOCK: Maths Paper 1
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-maths2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270119T090000Z
+DTEND:20270119T110000Z
+SUMMARY:🎓 MOCK: Maths Paper 2
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-bio1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270105T133000Z
+DTEND:20270105T151500Z
+SUMMARY:🎓 MOCK: Biology Paper 1
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-bio2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270120T090000Z
+DTEND:20270120T104500Z
+SUMMARY:🎓 MOCK: Biology Paper 2
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-phys1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270107T133000Z
+DTEND:20270107T151500Z
+SUMMARY:🎓 MOCK: Physics Paper 1
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-phys2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270115T133000Z
+DTEND:20270115T151500Z
+SUMMARY:🎓 MOCK: Physics Paper 2
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-chem1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270108T133000Z
+DTEND:20270108T153000Z
+SUMMARY:🎓 MOCK: Chemistry Paper 1
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-chem2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270114T090000Z
+DTEND:20270114T101500Z
+SUMMARY:🎓 MOCK: Chemistry Paper 2
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-geog1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270106T090000Z
+DTEND:20270106T101000Z
+SUMMARY:🎓 MOCK: Geography Paper 1 – Physical
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-geog2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270118T090000Z
+DTEND:20270118T104500Z
+SUMMARY:🎓 MOCK: Geography Paper 2 – Human
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-pe1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270107T090000Z
+DTEND:20270107T100000Z
+SUMMARY:🎓 MOCK: PE Paper 1 – Physical factors
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-pe2@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270113T090000Z
+DTEND:20270113T100000Z
+SUMMARY:🎓 MOCK: PE Paper 2 – Socio-cultural & psychology
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-food1@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270111T133000Z
+DTEND:20270111T151500Z
+SUMMARY:🎓 MOCK: Food Prep & Nutrition – Written
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-span4@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270112T110000Z
+DTEND:20270112T121500Z
+SUMMARY:🎓 MOCK: Spanish Writing
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-span13@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270113T133000Z
+DTEND:20270113T151500Z
+SUMMARY:🎓 MOCK: Spanish Listening & Reading
+END:VEVENT
+BEGIN:VEVENT
+UID:exam-foodprac@tom-revision
+DTSTAMP:20261121T172758Z
+DTSTART:20270112T133000Z
+DTEND:20270112T153000Z
+SUMMARY:🎓 MOCK: Food Prep & Nutrition – Practical
+END:VEVENT
+END:VCALENDAR
