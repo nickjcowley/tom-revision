@@ -5,7 +5,14 @@
 // These keys are safe to publish – they identify the project, they
 // aren't passwords.
 // ─────────────────────────────────────────────────────────────
-export const FIREBASE_CONFIG = null;
+export const FIREBASE_CONFIG = {
+  apiKey: "AIzaSyAGwVGzfKZ7WAmvAlxTKgw4L_CMfYwRUJ4",
+  authDomain: "tom-revision.firebaseapp.com",
+  projectId: "tom-revision",
+  storageBucket: "tom-revision.firebasestorage.app",
+  messagingSenderId: "173092254189",
+  appId: "1:173092254189:web:c15219e2af34111d2437e4"
+};
 /* Example:
 export const FIREBASE_CONFIG = {
   apiKey: "AIza…",
